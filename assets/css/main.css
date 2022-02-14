@@ -2270,46 +2270,55 @@ take precedence the ones in this file. */
 
 		.image img {
 			display: block;
+			border: 0;
 		}
 
 		.image.left, .image.right {
 			max-width: 40%;
+			border: 0;
 		}
 
 			.image.left img, .image.right img {
 				width: 100%;
+				border: 0;
 			}
 
 		.image.left {
 			float: left;
 			margin: 0 1.5em 1em 0;
 			top: 0.25em;
+			border: 0;
 		}
 
 		.image.right {
 			float: right;
 			margin: 0 0 1em 1.5em;
 			top: 0.25em;
+			border: 0;
 		}
 
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
+			border: 1 px solid darkgrey;
 		}
 
 			.image.fit img {
 				width: 100%;
+				border: 0;
 			}
 
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
 			width: 100%;
+			border: 0;
 		}
 
 			.image.main img {
 				width: 100%;
+				border: 0;
 			}
 
 /* List */
