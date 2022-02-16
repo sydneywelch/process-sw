@@ -34,3 +34,14 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+ #block-div{
+   display: block !important;
+   width: 100%;
+ }
+
+ #post-it-note{
+   display: block !important;
+   width: 100%;
+   height: 700px;
+ }
