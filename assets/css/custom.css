@@ -59,6 +59,7 @@ added to the button in the index html file as well.*/
   font-family: rooney-web,serif !important;
   font-weight: 400;
   font-style: normal;
+  border-radius: 60px;
  }
 
  a, h1, h2, h3, h4, h5, h6{
@@ -77,3 +78,25 @@ added to the button in the index html file as well.*/
   
  
  }
+
+ .imageborder {
+   border: 5px #FFA3BE solid !important;
+ }
+
+ #menu {
+   background-color: rgb(64, 74, 64);
+   
+ }
+
+ #header {
+   background-color: rgb(64, 74, 64);
+ }
+
+ #footer {
+   background-color: rgb(64, 74, 64);
+ }
+
+ .styletileborder {
+   border: 1px #FFA3BE solid !important;
+ }
+
