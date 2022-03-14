@@ -1733,7 +1733,7 @@ take precedence the ones in this file. */
 	}
 
 	input, select, textarea {
-		color: #555;
+		color: #9dbf9e;
 	}
 
 	a {
@@ -1741,11 +1741,11 @@ take precedence the ones in this file. */
 	}
 
 	strong, b {
-		color: #555;
+		color: #9dbf9e;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+		color: #9dbf9e;
 	}
 
 	blockquote {
@@ -1924,7 +1924,7 @@ take precedence the ones in this file. */
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-			color: #555 !important;
+			color: #9dbf9e !important;
 		}
 
 			input[type="submit"].alt:hover,
@@ -2145,7 +2145,7 @@ take precedence the ones in this file. */
 	}
 
 	label {
-		color: #555;
+		color: #9dbf9e;
 	}
 
 	input[type="text"],
@@ -2605,7 +2605,7 @@ take precedence the ones in this file. */
 		}
 
 	table th {
-		color: #555;
+		color: #9dbf9e
 	}
 
 	table thead {
@@ -2909,7 +2909,7 @@ take precedence the ones in this file. */
 				.wrapper.style2 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #3498db !important;
+					color: #9dbf9e !important;
 				}
 
 					.wrapper.style2 input[type="submit"].alt:hover,
@@ -3421,7 +3421,7 @@ take precedence the ones in this file. */
 			#banner button.special,
 			#banner .button.special {
 				background-color: #fff;
-				color: #3498db !important;
+				color: #9dbf9e !important;
 			}
 
 		#banner label {
@@ -4052,7 +4052,7 @@ take precedence the ones in this file. */
 				.post.style2 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #3498db !important;
+					color: #9dbf9e !important;
 				}
 
 					.post.style2 input[type="submit"].alt:hover,
@@ -4187,7 +4187,7 @@ take precedence the ones in this file. */
 					.post.style2.invert button.special,
 					.post.style2.invert .button.special {
 						background-color: #fff;
-						color: #3498db !important;
+						color: #9dbf9e !important;
 					}
 
 				.post.style2.invert .content {
